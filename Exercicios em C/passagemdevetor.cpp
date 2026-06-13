@@ -32,6 +32,8 @@ int main(){
 	int vetor[3];
 	
 	preencher(vetor);
+	//teste
+
     
     return 0;
 }

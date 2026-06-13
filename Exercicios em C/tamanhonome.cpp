@@ -31,6 +31,7 @@ int main(){
 	}
 	
 	printf("\n Quantidade: %d", cont);
+	//teste
 	
 	return 0;
 }
